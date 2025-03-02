@@ -24,43 +24,41 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ##### 1️⃣ ETL (Extracción, Transformación y Carga)
 
-Carga del dataset
+- Carga del dataset
 
-Manejo de valores nulos y filtrado de datos
+- Manejo de valores nulos y filtrado de datos
 
-Transformaciones necesarias para preparar los datos
+- Transformaciones necesarias para preparar los datos
 
 ##### 2️⃣ Análisis Exploratorio de Datos (EDA)
 
-Cálculo de estadísticas descriptivas con NumPy
+- Cálculo de estadísticas descriptivas con NumPy
 
-Identificación de patrones y tendencias clave
+- Identificación de patrones y tendencias clave
 
-Visualización de datos con Matplotlib y Seaborn
+- Visualización de datos con Matplotlib y Seaborn
 
 ##### 3️⃣ Visualización de Datos
 
-Se han creado distintos tipos de gráficos con una explicación justificada antes de cada uno:
+- Se han creado distintos tipos de gráficos con una explicación justificada antes de cada uno:
 
-Gráfico de barras: Comparación entre categorías
+- Gráfico de barras: Comparación entre categorías
 
-Histograma: Distribución de variables numéricas
+- Histograma: Distribución de variables numéricas
 
-Diagrama de dispersión: Relación entre dos variables
+- Diagrama de dispersión: Relación entre dos variables
 
 ##### 4️⃣ Modelado Predictivo
 
-Se implementó un modelo de Machine Learning utilizando Scikit-Learn
+- Se implementó un modelo de Machine Learning utilizando Scikit-Learn
 
-Métricas de evaluación: Precisión, Recall y Exactitud
-
-Posible comparación de modelos para optimizar resultados (opcional)
+- Métricas de evaluación: Precisión, Recall, Validacion cruzada, Grafico de dispersion y Exactitud 
 
 #### 🚀 Ejecución
 
-Para ejecutar el notebook, utilice el siguiente comando:
+- Para ejecutar el notebook, utilice el siguiente comando:
 
-jupyter notebook notebooks/mi_casino_test.ipynb
+- jupyter notebook notebooks/mi_casino_test.ipynb
 
 #### 📄 Conclusiones
 
